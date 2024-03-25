@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 
-#define MAX_SIZE 20
+#define MAX_SIZE 100
 
 using namespace std;
 
